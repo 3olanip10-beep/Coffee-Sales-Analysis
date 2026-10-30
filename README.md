@@ -155,10 +155,6 @@ This project demonstrates my ability to:
 - Communicate analytical findings in a clear and accessible format.
 - Translate data insights into practical business recommendations.
 
-## 📁 Project Files
-
-- [Coffee Sales Excel Dashboard](Coffee_Sales_Dashboard.xlsx)
-- [Dashboard Screenshot](dashboard.png)
 
 ## 👤 About the Analyst
 
