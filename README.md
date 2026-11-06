@@ -8,7 +8,7 @@ Using Microsoft Excel, I developed an interactive dashboard to explore sales pat
 
 The dashboard brings together key performance indicators (KPIs), sales trends and customer insights to support data-driven business decisions.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Evaluate overall coffee sales performance.
 - Identify the best-performing coffee products and markets.
@@ -17,7 +17,7 @@ The dashboard brings together key performance indicators (KPIs), sales trends an
 - Investigate annual sales trends and seasonal product demand.
 - Provide actionable business recommendations based on the analysis.
 
-## 🛠️ Tools Used
+##  Tools Used
 
 **Microsoft Excel**
 
@@ -29,9 +29,8 @@ The dashboard brings together key performance indicators (KPIs), sales trends an
 
 ## 📊 Dashboard Preview
 
-![Coffee Sales Dashboard](dashboard.png)
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard tracks four key business metrics:
 
@@ -44,7 +43,7 @@ The dashboard tracks four key business metrics:
 
 These KPIs provide an overview of sales performance and customer activity.
 
-## 🔍 Dashboard Analysis and Key Insights
+##  Dashboard Analysis and Key Insights
 
 ### 1. Top 5 Customers by Sales
 
@@ -102,7 +101,7 @@ These KPIs provide an overview of sales performance and customer activity.
 
 **Business Implication:** Loyalty card holders represent an important customer segment. Further analysis comparing members and non-members would help assess whether membership is associated with higher spending and repeat purchases.
 
-## 🎛️ Interactive Dashboard Features
+## Interactive Dashboard Features
 
 The dashboard includes five slicers that allow users to filter and explore sales data dynamically.
 
@@ -116,7 +115,7 @@ The dashboard includes five slicers that allow users to filter and explore sales
 
 These filters make it possible to explore the dataset from different perspectives without manually changing the underlying analysis.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the dashboard findings, I recommend the following:
 
@@ -144,7 +143,7 @@ Group customers based on spending behaviour, purchasing frequency and loyalty me
 
 Use historical demand patterns to anticipate changes in coffee sales and improve product availability.
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 This project demonstrates my ability to:
 
@@ -156,10 +155,10 @@ This project demonstrates my ability to:
 - Translate data insights into practical business recommendations.
 
 
-## 👤 About the Analyst
+## About the Analyst
 
 **Olanipekun Joshua Tijesuni**
 
 Data Analyst | Researcher | Excel | Power BI
 
-I am passionate about using data to understand patterns, solve practical problems and support evidence-based decision-making, with particular interests in business, sports and agricultural analytics.
+I am passionate about using data to understand patterns, solve practical problems and support evidence based decision making, with particular interests in business, sports and agricultural analytics.
