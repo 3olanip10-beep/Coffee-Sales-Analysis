@@ -1,6 +1,6 @@
-# ☕ Coffee Sales Analysis Dashboard | Microsoft Excel
+# Coffee Sales Analysis Dashboard | Microsoft Excel
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyses coffee sales performance, customer purchasing behaviour, loyalty programme effectiveness and product trends across different countries and years.
 
@@ -27,7 +27,7 @@ The dashboard brings together key performance indicators (KPIs), sales trends an
 - Slicers for interactive filtering
 - KPI tracking and performance monitoring
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 
 ## Key Performance Indicators (KPIs)
